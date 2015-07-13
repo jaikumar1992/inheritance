@@ -1,0 +1,2 @@
+# inheritance
+inheritance sample program
